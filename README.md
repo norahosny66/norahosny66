@@ -1,3 +1,4 @@
+![gitartwork](https://user-images.githubusercontent.com/48599241/159076325-02c360b6-2982-47bf-80be-c8cdcf49f4f5.svg)
 ### Hi there 👋
 
 <!--
