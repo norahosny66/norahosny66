@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Noura</h1>
-<h3 align="center">computer science fresh graduate </h3>
+<h3 align="center">Dedicated Site Reliability/DevOps Engineer with a good foundation in cloud computing, 
+container orchestration, infrastructure automation, and system monitoring. Proven experience 
+deploying highly available microservices architectures, implementing CI/CD pipelines, and 
+maintaining resilient production environments. </h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norahosny66" alt="norahosny66" /></a> </p>
