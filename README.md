@@ -10,13 +10,6 @@ deploying highly available microservices architectures, implementing CI/CD pipel
 maintaining resilient production environments.
 </h3>
 
----
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=norahosny66&no-frame=true&margin-w=8" alt="norahosny66 trophies"/>
-  </a>
-</p>
 
 ---
 
