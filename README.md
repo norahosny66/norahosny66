@@ -20,16 +20,16 @@ deploying highly available microservices architectures, implementing CI/CD pipel
 maintaining resilient production environments. </h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norahosny66" alt="norahosny66" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=norahosny66&refresh=1" alt="norahosny66" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nourahosny81231/" target="blank"><img align="center" src="https://github.com/norahosny66/norahosny66/blob/main/linkedin-svgrepo-com.svg" alt="nourahosny81231/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norahosny66&show_icons=true&locale=en&layout=compact&refresh=1" alt="norahosny66" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=norahosny66&show_icons=true&locale=en&layout=compact&count_private=true&refresh=1" alt="norahosny66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=norahosny66&show_icons=true&count_private=true&refresh=1" alt="norahosny66" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norahosny66&&refresh=1" alt="norahosny66" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=norahosny66&count_private=true&refresh=1" alt="norahosny66" /></p>
 
